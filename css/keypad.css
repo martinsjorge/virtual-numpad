@@ -1,0 +1,65 @@
+@Charset "utf-8";
+/* CSS Document */
+
+#keyPad {
+	top: 30%;
+}
+
+#area-keypad {
+	width: 300px;
+	margin: 0 auto;
+	background-color: #475370 !important;
+}
+
+#btn-entrar {
+	background-color: #ffa800 !important;
+	color: #fff;
+	font-weight: bold;
+	outline: none;
+}
+
+#btn-limpar {
+	background-color: #909090;
+	color: #fff;
+	font-weight: bold;
+	outline: none;
+}
+
+#passwordKeypad {
+	color: #ffffff;
+  	background-color: #606b83 !important;
+  	text-align: center;
+  	outline: none;
+}
+
+.spacing-td {
+	width: 33.3%;
+}
+
+.btn-teclado {
+    background-color: #909090;
+    color: #fff;
+    font-weight: bold;
+    outline: none !important;
+}
+
+.btn-teclado:focus {
+	color: #fff;
+}
+
+.btn-teclado:hover {
+	color: #fff;
+}
+
+.border-table td {
+	border-top: none !important;
+}
+
+.btn-close {
+	color: #fff !important;
+	opacity: 1.0 !important;
+}
+
+.keypad-header {
+	border-bottom: none !important;
+}
